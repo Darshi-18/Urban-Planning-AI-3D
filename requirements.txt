@@ -1,6 +1,6 @@
 streamlit==1.35.0
-torch==2.2.2 --index-url https://pytorch.org
-torchvision==0.17.2 --index-url https://pytorch.org
+torch==2.2.2
+torchvision==0.17.2
 numpy<2.0.0
 opencv-python-headless==4.9.0.80
 scipy==1.12.0
