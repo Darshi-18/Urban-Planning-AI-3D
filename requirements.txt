@@ -1,5 +1,4 @@
 streamlit
---extra-index-url https://pytorch.org
 torch
 torchvision
 numpy
